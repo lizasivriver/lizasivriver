@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,67,158,1) 0%, rgba(211,160,255,1) 100%);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,67,158,1) 0%, rgba(211,160,255,1) 100%);
 }
 
 nav ul, footer ul {
@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #FFFFFF;
 }
 a:hover {
     text-decoration: underline;
@@ -29,7 +29,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #ffa500;
+    color: #FFFFFF;
 }
 footer {
     border-top: 1px solid #d5d5d5;
