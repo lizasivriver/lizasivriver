@@ -2,6 +2,7 @@
 layout: default
 title: About Liza
 ---
+
 ```markdown
 -I'm a rising senior majoring in Computer Science+Math with a minor in American Culture Studies at [Washington University in St. Louis](https://wustl.edu/). 
 -I plan to graduate in May 2020, and pursue a PhD in Computer Science with a focus in Human-Computer Interaction. 
