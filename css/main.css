@@ -37,9 +37,9 @@ h1 {
 }
 p {
     
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Roboto', sans-serif;
-    line-height: 1.4em;
+    line-height: 1.4;
     color: #000000;
     
 }
